@@ -1,2 +1,2 @@
 # Study-Notes
-CompTIA Network+ and Security+ personal study notes
+CompTIA Network+(N10-008) CompTIA Security+(SY0-601) personal study notes
